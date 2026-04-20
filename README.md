@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-💡 Passionate **Flutter Developer** with 2+ years of experience building scalable mobile apps
+💡 Passionate **Flutter Developer** with 3+ years of experience building scalable mobile apps
 
 📱 I create high-performance apps for **Android & iOS** using modern architecture
 
